@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IATReplaceAndHook", "IATReplaceAndHook\IATReplaceAndHook.vcxproj", "{6AEDA3F6-DE2D-4DE9-A335-54D198234D66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEDA3F6-DE2D-4DE9-A335-54D198234D66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AEDA3F6-DE2D-4DE9-A335-54D198234D66}.Debug|Win32.Build.0 = Debug|Win32
+		{6AEDA3F6-DE2D-4DE9-A335-54D198234D66}.Release|Win32.ActiveCfg = Release|Win32
+		{6AEDA3F6-DE2D-4DE9-A335-54D198234D66}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211F128C-24EF-4D77-B264-7CD583F5A738}
+	EndGlobalSection
+EndGlobal

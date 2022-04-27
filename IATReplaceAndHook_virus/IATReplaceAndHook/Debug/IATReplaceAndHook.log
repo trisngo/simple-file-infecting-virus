@@ -1,0 +1,14 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Source.cpp
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(321,20): warning C4018: '<': signed/unsigned mismatch
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(459,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(600,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(601,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(602,11): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(404,8): warning C4101: 'bSuccess': unreferenced local variable
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(635,9): warning C4101: 'hProcess': unreferenced local variable
+D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\IATReplaceAndHook\Source.cpp(637,8): warning C4101: 'dwPriorityClass': unreferenced local variable
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  IATReplaceAndHook.vcxproj -> D:\UIT\HK6\MalwareOperadi\exercise1\IATReplaceAndHook\Debug\IATReplaceAndHook.exe
